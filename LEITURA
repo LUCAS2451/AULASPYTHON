@@ -1,0 +1,11 @@
+def main():
+  nome = input("digite seu nome: ")
+  idade = int(input("digite s8ua idade: "))
+  altura = float(input("digite sua altura: "))
+  isMasculino = input("voce e do sexo masculino?")
+  print("ola",  nome)
+  print("idade:",idade)
+  print("altura:",altura)
+  print("masculino:",isMasculino)
+  return 0
+main()
