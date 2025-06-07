@@ -1,0 +1,11 @@
+def main():
+  nome ="LUCAS"
+  idade = 18
+  altura = 1.83
+  isMasculino = True
+  print("ola",  nome)
+  print("idade:",idade)
+  print("altura:",altura)
+  print("masculino:",isMasculino)
+  return 0
+main()
